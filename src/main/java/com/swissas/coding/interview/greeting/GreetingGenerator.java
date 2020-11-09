@@ -3,14 +3,14 @@ package com.swissas.coding.interview.greeting;
 import java.util.stream.Stream;
 
 /**
- * Prints "Hello!" indefinitely on the console.
+ * Prints "Hello!" indefinitely(*) on the console.
  * <p>
  * On the first line, prints "Hello!" once. On the second time, two times, etc.
- * and never ends.
+ * and never ends(*).
  * <p>
- * As is, this code will eventually stop. Please refactor the generate method
- * so that the code runs forever and prints the ever growing message on the 
- * console.
+ * As is, this code will stop quickly and not provide any output on the console.
+ * Please refactor the generate method so that the code runs forever(*) and 
+ * prints the ever growing message on the console.
  * <p>
  * Rules:
  * <li>You are not allowed to change the buildMessage method</li>
@@ -19,7 +19,7 @@ import java.util.stream.Stream;
  * <li>The only method that can output something on the console is the main 
  * method</li>
  * <p>
- * Have fun!
+ * (*) well, nothing is really forever. Make it run as long as possible!
  * 
  * @author XPHC
  */
