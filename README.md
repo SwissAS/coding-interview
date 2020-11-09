@@ -4,7 +4,7 @@ Hello!
 
 We are looking for Java programmers who love to code! You will find all the
 details on the current open positions here:
-	[https://swissas.teamtailor.com/]
+	https://swissas.teamtailor.com/
 
 Show us your skills by going through the exercises in this repository. Look at
 the code and you will find the instructions. The exercises are based on Java
